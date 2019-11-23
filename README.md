@@ -13,3 +13,7 @@ https://www.php.net/downloads.php
 https://symfony.com/4
 ### Doctrine ORM
 https://symfony.com/doc/current/doctrine.html
+## Remind
+### .env 
+That is file which consist secret/private information.
+Need add this one to .gitignore
