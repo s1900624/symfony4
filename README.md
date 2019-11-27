@@ -1,4 +1,5 @@
 # Symfony4 final project
+### Author Ilmast Toivo
 This project  "Initiative box" (in Finnish is "Sähköinen aloitelaatikko") is the final assignment for the course Symfony4 which was learned in Business College, city Helsinki, group PHP 19. 
 
 "Initiative box" application allows users to use concept CRUD (this means: create, read, update and delete). 
